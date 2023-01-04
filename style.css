@@ -1,5 +1,5 @@
 body {
-  background: blueviolet;
+  
   display: flex;
   align-items: center;
   justify-content: center;
@@ -9,9 +9,6 @@ body {
 
 h1 {
   font-size: xx-large;
-}
-p {
-  color: blue;
 }
 
 form {
